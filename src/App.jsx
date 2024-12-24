@@ -48,8 +48,8 @@ function App() {
   }
   const handleCheckBox=(e)=>{
     let id = e.target.name;
-    let index = todos.findIndex(item=>{
-      return item.id===id;
+    let index = todos.findIndex(items=>{
+      return items.id===id;
     })
     let newTodos = [...todos];
     newTodos[index].isCompleted = !newTodos[index].isCompleted;
