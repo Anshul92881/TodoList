@@ -73,3 +73,25 @@ TodoList_App/
 <img width="959" alt="Task2" src="https://github.com/user-attachments/assets/e5f8a651-39f4-48a2-94e0-e9e0bd11e1a1" />
 
 
+## Future Enhancements 
+
+1. **Implement categories or tags**  
+   Enable users to organize tasks by categories or tags for better management.
+
+2. **Add a calendar view**  
+   Provide a calendar interface to visualize tasks based on due dates.
+
+3. **Integrate user authentication**  
+   Allow users to log in and save their tasks securely in the cloud.
+
+4. **Offline support**  
+   Make the app functional even without an internet connection using service workers.
+
+5. **Mobile app support**  
+   Convert the project into a Progressive Web App (PWA) for mobile usability.
+
+6. **Share tasks**  
+    Add functionality to share tasks with others via email or social media.
+
+
+
